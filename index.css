@@ -1,0 +1,20 @@
+body{
+	box-sizing: border-box;
+	background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4 );
+	background-size: auto;
+	border-radius: 0px;	
+	
+}
+.test{
+	font-size: large;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.divTODO{
+	font-style: italic;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
