@@ -1,0 +1,46 @@
+body{
+	box-sizing: border-box;
+    background-image: linear-gradient(
+        -90deg,
+        violet,
+        indigo,
+        blue,
+        green,
+        yellow,
+        orange,
+        red
+      );
+    background-size: auto;
+	border-radius: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	
+}
+.test{
+	font-size: large;
+	font-family:cursive;
+}
+
+
+
+.divTODO{
+	font-style: italic;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.textemulticolore {
+    background-image: linear-gradient(
+      to left,
+      violet,
+      indigo,
+      blue,
+      green,
+      yellow,
+      orange,
+      red
+    );
+    -webkit-background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
